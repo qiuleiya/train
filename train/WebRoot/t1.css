@@ -1,0 +1,47 @@
+@CHARSET "UTF-8";
+.top {
+    background: #ffb6c7;
+}
+body{
+    background-color: #fff2e2;
+}
+.biaoti{
+    border-style: dashed;
+    border-color: salmon;
+    background-image: url("image/bt.jpg");
+    font-family:FZYaoti;
+    color: salmon;}
+strong{
+    color: deeppink;
+}
+
+
+.loose{
+    color: black;
+    line-height: 40px;
+    font-weight: bolder;
+}
+
+.btn1{
+    background-color: #fdd2c3;
+    height:100px;
+    text-align: center;
+
+}
+.ya{
+    border-style: dashed;
+    border-color: salmon;
+
+}
+.biaoti1{
+    border-style: dashed;
+    border-color: salmon;
+    background-image: url("image/btbj.jpg");
+    font-family:FZYaoti;
+    text-color: #463cff;}
+    th{
+    height:50px;
+    width:100px;
+    text-align:center
+   }
+   tr{text-align:center}
