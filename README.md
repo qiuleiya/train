@@ -22,8 +22,8 @@ jsp＋html+sql实现
 
 ![](image/jeishao.jpg)
 ![首页](image/main.jpg)
-![根据起点中点查票](image/queryticket (1).jpg)
-![根据车次查票](image/queryticket (2）.jpg)
+![根据起点中点查票](image/queryticket1.jpg)
+![根据车次查票](image/queryticket2.jpg)
 ![](image/sign_in_page.jpg)
 ![](image/denglu.jpg)
 ![](image/sign_up_page.jpg)
