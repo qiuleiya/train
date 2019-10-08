@@ -20,5 +20,5 @@ jsp＋html+sql实现
 订单查询：可查询单个订单或全部订单
 订单管理：可删除订单信息。
 
-![addtrain]image/addtrains.jpg
+![addtrain](image/addtrains.jpg)
 哈哈哈是我喜欢的小丸子风格
