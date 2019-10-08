@@ -20,5 +20,22 @@ jsp＋html+sql实现
 订单查询：可查询单个订单或全部订单
 订单管理：可删除订单信息。
 
-![addtrain](image/addtrains.jpg)
+![](image/jeishao.jpg)
+![首页](image/main.jpg)
+![根据起点中点查票](image/queryticket (1).jpg)
+![根据车次查票](image/queryticket (2）.jpg)
+![](image/sign_in_page.jpg)
+![](image/denglu.jpg)
+![](image/sign_up_page.jpg)
+![](image/success_register.jpg)
+![](image/denglu.jpg)
+![用户页面](image/user_page.jpg)
+![](image/buyticket.jpg)
+![](image/delete_order.jpg)
+![](image/user_refune.jpg)
+![](image/success_refune.jpg)
+![](image/user_checkorder.jpg)
+![管理员页面](image/adminpage.jpg)
+![](image/addtrains.jpg)
+![](image/delete_user.jpg)
 哈哈哈是我喜欢的小丸子风格
